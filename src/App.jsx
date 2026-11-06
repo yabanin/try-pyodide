@@ -133,6 +133,7 @@ function App() {
 
   return (
     <main className="playground">
+      <p>PyodideでPython実行環境を作るデモ。 レポジトリ：<a href='https://github.com/yabanin/try-pyodide'>https://github.com/yabanin/try-pyodide</a></p>
       <section className="panel">
         <label>コード</label>
         <div className="tabs" role="tablist">

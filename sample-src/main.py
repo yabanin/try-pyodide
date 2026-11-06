@@ -1,3 +1,4 @@
+# レポジトリのsample-src/external_code.pyから別ファイルのコードをimportできる
 from external_code import another_file_data
 
 name = input()
